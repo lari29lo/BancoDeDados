@@ -1,0 +1,15 @@
+projeção(colunas)
+from (oq eu quero ver)
+where(filtro)
+group by
+having
+order by
+
+join (operação lado a lado)
+inner join (junção de todas as colunas)
+
+
+MySQL
+union(unir duas 
+union all(manter ou guardar 
+interseção
