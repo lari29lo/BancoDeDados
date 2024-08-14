@@ -1,0 +1,15 @@
+https://www.w3schools.com/sql/ 
+
+TCL- Commit => confirma, persiste esses dados no banco
+     Rollback => desfaz a execução de algum comando
+
+DCL- Grant => é um comando usado para fornecer acesso ou privilégios aos objetos do banco de dados aos usuários.
+GRANT privilege_name
+ON object_name
+TO {user_name |PUBLIC |role_name}
+[WITH GRANT OPTION];
+
+Revoke => RETIRA remove direitos ou privilégios de acesso do usuário aos objetos do banco de dados. 
+REVOKE privilege_name
+ON object_name
+FROM {user_name |PUBLIC |role_name}
